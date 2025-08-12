@@ -4,6 +4,7 @@ NOVA is a tool for annotating and analyzing behaviours in social interactions.  
 A main feature of NOVA is that it allows to employ a collaborative annotation database where annotation work can be split between multiple sides,  but also between a human annotator and a machine by supporting human annotators with machine learning techniques already during the annotation process - A process we call Collaborative Machine Learning.
 
 ![alt tag](http://hcm-lab.de/projects/ssi/wp-content/uploads/2018/02/nova.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnotsosporty%2Fsbom2.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnotsosporty%2Fsbom2?ref=badge_shield)
 
 
 NOVA allows framewise labeling for a precise coding experience, and value-continuous annotations for labeling e.g emotions or social attitudes. The interface is customizable and allows loading and labeling data of multiple persons.
@@ -101,3 +102,7 @@ month={Sep.}
   
 </code></pre>
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnotsosporty%2Fsbom2.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnotsosporty%2Fsbom2?ref=badge_large)
